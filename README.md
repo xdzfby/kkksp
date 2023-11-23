@@ -5,6 +5,7 @@
 <span style="font-size:20px"><a href="https://kkksp2.xyz" target="_blank">kkksp2.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://kkksp1.xyz" target="_blank">kkksp1.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://kkksp.xyz" target="_blank">kkksp.xyz</a></span><br>
+<span style="font-size:20px"><a href="https://kkksp.pics" target="_blank">kkksp.pics</a></span><br>
 <span style="font-size:20px"><a href="https://kkksp.store" target="_blank">kkksp.store</a></span><br>
 <span style="font-size:20px"><a href="https://kkksp.shop" target="_blank">kkksp.shop</a></span><br>
 <span style="font-size:20px"><a href="https://kkksp.site" target="_blank">kkksp.site</a></span><br>
