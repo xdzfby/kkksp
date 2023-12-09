@@ -2,6 +2,7 @@
 <center>
 <span style="font-size:20px">最新地址</span><br>
 <br />
+<span style="font-size:20px"><a href="https://kkksp6.xyz" target="_blank">kkksp6.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://kkksp5.xyz" target="_blank">kkksp5.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://kkksp2.xyz" target="_blank">kkksp2.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://kkksp1.xyz" target="_blank">kkksp1.xyz</a></span><br>
